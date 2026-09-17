@@ -47,16 +47,6 @@ Built for speed and privacy, all data is securely persisted in your browser's lo
 *   **Charts:** Recharts
 *   **Database:** Browser `localStorage` (Zero-latency, offline-first)
 
-## 🚀 Getting Started
-
-Since this is a lightweight, frontend-only application, getting started is instant.
-
 ### Prerequisites
 *   Node.js (v18 or higher)
 *   npm or yarn
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Coder1922/BizHub-Pro.git
