@@ -1,12 +1,12 @@
 <div align="center">
   <h1>🚀 Smart Business Hub</h1>
   <p><strong>The All-in-One Command Center for Small Businesses</strong></p>
-
-  <br />
+  
   <strong>🚀 <a href="https://biz-hub-pro.vercel.app/">View Live Demo</a> 🚀</strong>
   <br />
   <br />
   
+  [![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat&logo=google)](https://aistudio.google.com/) 
   [![React](https://img.shields.io/badge/React-19-blue.svg?style=flat&logo=react)](https://react.dev/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC.svg?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
